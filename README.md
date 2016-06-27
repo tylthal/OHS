@@ -2,4 +2,4 @@
 
 This is a change to my file
 
-*bolded*
+*emphasized*
